@@ -1,10 +1,8 @@
 # Welcome to the Java Track
 
-# Welcome to the Java Track
-
 ## My Name
 
-**Latha Sree**
+**Balappagari Latha Sree**
 
 ## What I Learned in Foundation Month
 
