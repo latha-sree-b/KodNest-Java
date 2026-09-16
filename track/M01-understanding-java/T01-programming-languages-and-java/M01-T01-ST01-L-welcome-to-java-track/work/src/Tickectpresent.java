@@ -21,7 +21,7 @@ public class Tickectpresent {
                 System.out.println("You're too young to watch a movie");
             }
         } else {
-            System.out.println("Buy Ticket");
+            System.out.println("Buy Ticket and watch movie");
         }
         
         sc.close(); // Good practice to close the scanner
